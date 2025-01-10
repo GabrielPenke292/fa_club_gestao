@@ -97,3 +97,4 @@ C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\refint\FanC
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\FanClub.pdb
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\FanClub.genruntimeconfig.cache
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\ref\FanClub.dll
+C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\FanClub.sourcelink.json
