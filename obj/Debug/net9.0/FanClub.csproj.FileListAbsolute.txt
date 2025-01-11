@@ -80,8 +80,6 @@ C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\compressed\
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\compressed\t0sooyfziw-muycvpuwrr.gz
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\compressed\twghi6skju-87fc7y1x7t.gz
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\compressed\h9sai0qzm2-mlv21k5csn.gz
-C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\compressed\wx6qjxbuom-56kkkp5ibp.gz
-C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\compressed\tx5r52isw9-56kkkp5ibp.gz
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -98,3 +96,6 @@ C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\FanClub.pdb
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\FanClub.genruntimeconfig.cache
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\ref\FanClub.dll
 C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\FanClub.sourcelink.json
+C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\scopedcss\Views\Shared\_AddMemberModal.cshtml.rz.scp.css
+C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\compressed\wx6qjxbuom-atwp9nqe3r.gz
+C:\Users\gabriel.penke\source\repos\FanClub\FanClub\obj\Debug\net9.0\compressed\tx5r52isw9-atwp9nqe3r.gz

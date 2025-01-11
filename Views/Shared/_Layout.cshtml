@@ -23,9 +23,6 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
                     </ul>
                 </div>
             </div>
@@ -51,7 +48,7 @@
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="/Members/Create">
+                                <a class="nav-link" href="#" data-bs-toggle="modal" data-bs-target="#addMemberModal">
                                     ➕ Cadastrar Membros
                                 </a>
                             </li>
@@ -72,11 +69,14 @@
                 </div>
             </div>
         </main>
-    </div>
+    </div
+
+    <!-- Carrega o modal de cadastrar usuario -->
+    @await Html.PartialAsync("_AddMemberModal")
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2025 - FanClub - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            &copy; 2025 - FanClub - Developed by Gabriel Penke
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
